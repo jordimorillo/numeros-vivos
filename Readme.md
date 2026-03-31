@@ -6,3 +6,9 @@ El objetivo es crear una función que transforme un número entero aplicando est
 - Repite estas reglas hasta que el número llegue a 1.
 
 El resultado final será la cantidad de veces que se aplicaron las reglas antes de alcanzar el 1.
+
+---
+
+## 👤 Autor
+
+**Jordi Morillo Sells** — [LinkedIn](https://www.linkedin.com/in/jordi-morillo-sells/)
